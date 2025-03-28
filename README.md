@@ -1,3 +1,4 @@
+<img width="952" alt="Screenshot 2025-03-28 141137" src="https://github.com/user-attachments/assets/882fa517-ea59-48b9-9c06-0e3891bb50cd" />
 On-chain STEM Competition Management
 Description
 An innovative blockchain-based platform designed to transform STEM competition management through a decentralized smart contract. This Aptos blockchain solution provides a transparent, secure, and efficient mechanism for organizing and participating in STEM competitions, leveraging blockchain technology to create a fair and accessible ecosystem for scientific and technological challenges.
