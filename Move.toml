@@ -1,0 +1,16 @@
+[package]
+name = "On-chain-STEM-competition-management"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x604f5d069bf96d3a1f42168a4e1368f4f6476003a61c05a510d05a13c4a0bda3"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
